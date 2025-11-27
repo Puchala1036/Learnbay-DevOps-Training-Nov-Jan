@@ -24,6 +24,7 @@ Organizations in GitHub
   11 git tag -a day4 -m "4cf229abc30342e5a91bcc4d85be67817845263b"
   12 git log
   13 git status
+     git clone https://github.com/Msocial123/Batch41-Training-Material.git -b consise
   14 git branch
   15 git push origin main
   16 git remote -v
